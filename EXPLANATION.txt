@@ -1,0 +1,19 @@
+Greetings, my name is Gagas Manggardhi and this is the result of the given take-home test.
+In this task of skinning the design for the jewellery shop "Le Diamonds", I used the help of ReactJS with MUI(Material UI) as my main front-end framework. 
+It is a very handy tool for front-end developers to use for their ReactJS projects.
+
+Although most regrettably, I could not manage to finish all of the required components nor could I finish the responsive version. 
+I am terribly sorry about this. The fact of the matter was that I am not quite that proficient just yet in using the new tools that I used for this project, 
+though through this task, I managed to gain more insight on how to approach this task should I ever come across something similar. 
+My plan to solve this setback is to practice a lot more, and figure out the common pitfalls in this field and learn to amend it. 
+And I also especially need to learn more about making components more dynamic and how to properly use the Grid components to create the desirable layouts.
+
+Again, I thank you all for the opportunity and despite my setbacks, I am certain that this has brought me many useful insights and overall a challenging experience.
+
+Best regards,
+Gagas Manggardhi
+
+
+
+PS: To open this, you have to be in a React development environment. 
+Once you're in the text editor, type in "npm install" into the console and after it's finished installing, type in "npm start"
